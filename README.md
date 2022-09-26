@@ -3,7 +3,9 @@
 | 項目                 | 演示                                                                   |
 | -------------------- | ---------------------------------------------------------------------- |
 | 01-birthday-reminder | [demo](https://mayday1004-react-birthday-reminder.netlify.app/ 'demo') |
-| 02-tours             | demo                                                                   |
+| 02-tours             | [demo](https://mayday1004-react-tours.netlify.app/ 'demo')             |
+| 03-reviews           | [demo](https://mayday1004-react-reviews.netlify.app/ 'demo')           |
+| 04-accordion         | [demo](https://mayday1004-react-accordion.netlify.app/ 'demo')         |
 
 ### 相應的練習
 
